@@ -19,9 +19,7 @@ Our team has chosen to analyze covid data from the CDC. We selected this data du
 
 
 ### Data Exploration/Analysis
-Data Preparation/Database Code: https://github.com/RafifAlzayat/thecoolteam-/blob/main/Code/Data_Prep.ipynb
 
-Data Exploration Code: https://github.com/RafifAlzayat/thecoolteam-/blob/main/Code/Covid_Data_Exploration.ipynb
 
 For the data exploration and analysis phase of our project, we first examined the null values in our data set. Then, we determined that even after getting rid of rows with null values, our dataset was still too large at ~7M rows to perform our machine learning models. From there, we decided to focus specifically on covid hopsitalizations in the state of Virginia. After filtering to only include Virginia data, we made pie charts for each of our factors to ensure that there was still a good distribution of data across all of the different factors. An example of a pie chart we created can be found below. 
 #### Age Group Pie Chart
@@ -29,7 +27,7 @@ For the data exploration and analysis phase of our project, we first examined th
 
 
 ## Machine Learning Models
-Machine Learning Model Code: https://github.com/RafifAlzayat/thecoolteam-/blob/main/Code/Covid_Machine_Learning.ipynb
+
 
 ### On Machine Learning
 
@@ -71,7 +69,6 @@ The diagram for the machine learning model is below:
   ![alt text](https://github.com/RafifAlzayat/thecoolteam-/blob/main/Covid%20Analysis%20Images/Machine%20Learning%20Model%20Diagram%20(1).jpg)
   
  ## Database Information
-Data Prep/Database Code: https://github.com/RafifAlzayat/thecoolteam-/blob/main/Code/Data_Prep.ipynb
 
 ### AWS DB
 We are using a postgresql on AWS; to access the db use the following:

@@ -5,6 +5,8 @@
 
 **Software** : Python, Pandas, Jupyter Notebook, PySpark, Amazon Web Services RDS, pgAdmin (SQL)
 
+**Project Members** : Alan Fanng, Ryan Connelly, Rafif Alzayat, and Ava Wolfe
+
 Json Data info: 19 columns, 28,652,764 rows. 
 
 **Prepped CSV File**: https://rafifcoviddata.s3.amazonaws.com/cleaned_covid_data.csv
